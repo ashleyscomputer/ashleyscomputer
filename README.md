@@ -28,9 +28,9 @@ A South African hackathon MVP that detects suspicious messages, links and email 
 ![Arduino](https://img.shields.io/badge/Arduino_Uno-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Hackathon MVP](https://img.shields.io/badge/Hackathon-MVP-0071e3?style=flat-square)
-![Repository](https://img.shields.io/badge/Source-private-lightgrey?style=flat-square)
+[![View showcase](https://img.shields.io/badge/View_public_showcase-111111?style=for-the-badge&logo=github)](https://github.com/ashleyscomputer/gigo-sentinel)
 
-> The internet makes GIGO smarter. It does not make GIGO work.
+> The internet makes GIGO smarter. It does not make GIGO work.\n\n[Explore the public GIGO showcase →](https://github.com/ashleyscomputer/gigo-sentinel)
 
 ---
 
