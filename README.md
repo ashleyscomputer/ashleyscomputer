@@ -105,7 +105,7 @@ A digital student identity system with NFC scanning, Firebase authentication, cl
 
 ### 🏫 Academic Student Portal — Full-stack web
 
-<img src="https://raw.githubusercontent.com/ashleyscomputer/MyPortfolio/main/src/assets/student-portal.jpg" alt="Django Academic Student Portal dashboard" width="100%" />
+<img src="https://raw.githubusercontent.com/ashleyscomputer/ashleyscomputer/main/assets/academic-student-portal-v2.png" alt="AI-generated premium Academic Student Portal dashboard" width="100%" />
 
 A Django academic portal for authentication, transcript access and SQL-driven reporting through a focused dashboard.
 
