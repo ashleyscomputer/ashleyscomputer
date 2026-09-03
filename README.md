@@ -58,6 +58,28 @@ I’m a final-year ICT student at **Sol Plaatje University** with a strong inter
 
 ## Featured projects
 
+### 🚗 [Drift Car Rental](https://github.com/ashleyscomputer/drift-car-rental)
+
+<a href="https://drift-car-rental-2026.ashleyvr90.chatgpt.site/"><img src="https://raw.githubusercontent.com/ashleyscomputer/drift-car-rental/main/public/og.png" alt="Drift Car Rental premium vehicle catalogue" width="100%" /></a>
+
+An Apple-inspired South African car-rental experience with a 40-vehicle catalogue, local demo authentication, animated checkout, customer booking flow, admin dashboard, market-aligned pricing and an on-device Hugging Face AI guide.
+
+[![View live Drift website](https://img.shields.io/badge/View_live_website-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drift-car-rental-2026.ashleyvr90.chatgpt.site/)
+[![Open repository](https://img.shields.io/badge/Open_repository-111111?style=for-the-badge&logo=github)](https://github.com/ashleyscomputer/drift-car-rental)
+
+### 👟 [KickStreet — Premium Sneaker Marketplace](https://kickstreet.store/)
+
+<a href="https://kickstreet.store/"><img src="https://raw.githubusercontent.com/ashleyscomputer/MyPortfolio/main/src/assets/sneaker-website.png" alt="KickStreet premium sneaker marketplace live website" width="100%" /></a>
+
+A live South African sneaker storefront with predictive search, advanced filters, cart flow, payment-gateway planning and admin sales visibility.
+
+- React, Vite, Tailwind CSS and shadcn/ui
+- Product discovery designed around drops, sizes and buyer behaviour
+- Direct WhatsApp ordering, size selection and clear manual-payment flow
+- Live catalogue with sneakers, accessories and screenshot-based sourcing
+
+[![Visit live KickStreet store](https://img.shields.io/badge/Visit_live_store-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kickstreet.store/)
+
 ### 🛡️ [GIGO Sentinel](https://github.com/ashleyscomputer/gigo-sentinel) — Cybersecurity
 
 An offline-first mobile cybersecurity product that helps users inspect suspicious messages, links and email content, understand the warning signs, and turn governed risk into a physical Arduino alert.
@@ -79,19 +101,6 @@ An interpretable credit-risk workflow using **Weight of Evidence, Information Va
 - Champion AUC: **0.80555**
 - Python, Pandas, Scikit-learn, Streamlit and Plotly
 - Awarded an **Honourable Mention**
-
-### 👟 [KickStreet — Premium Sneaker Marketplace](https://kickstreet.store/)
-
-<a href="https://kickstreet.store/"><img src="https://raw.githubusercontent.com/ashleyscomputer/MyPortfolio/main/src/assets/sneaker-website.png" alt="KickStreet premium sneaker marketplace live website" width="100%" /></a>
-
-A live South African sneaker storefront with predictive search, advanced filters, cart flow, payment-gateway planning and admin sales visibility.
-
-- React, Vite, Tailwind CSS and shadcn/ui
-- Product discovery designed around drops, sizes and buyer behaviour
-- Direct WhatsApp ordering, size selection and clear manual-payment flow
-- Live catalogue with sneakers, accessories and screenshot-based sourcing
-
-[![Visit live KickStreet store](https://img.shields.io/badge/Visit_live_store-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kickstreet.store/)
 
 ### 🎓 NFC Student Card System — Mobile identity
 
@@ -133,13 +142,6 @@ A privacy-conscious safety application with a discreet safe-word trigger, geo-ma
 - Designed for discreet activation rather than a visible panic interface
 - Community hazard mapping adds prevention context
 - Private hackathon implementation
-
-### 🚗 [Drift Car Rental](https://github.com/ashleyscomputer/drift-car-rental)
-
-An Apple-inspired South African car-rental experience with a 40-vehicle catalogue, customer booking flow, admin dashboard, market-aligned pricing and an on-device Hugging Face AI guide.
-
-[![Open repository](https://img.shields.io/badge/Open_repository-111111?style=for-the-badge&logo=github)](https://github.com/ashleyscomputer/drift-car-rental)
-[![Live site](https://img.shields.io/badge/View_live_site-0071E3?style=for-the-badge)](https://drift-car-rental-2026.ashleyvr90.chatgpt.site)
 
 ## Achievements & hackathons
 
