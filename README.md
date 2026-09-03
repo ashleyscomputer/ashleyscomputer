@@ -226,7 +226,6 @@ I’m immediately available for useful work with junior cybersecurity, data, sof
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-ashleyloveslinux-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ashleyloveslinux)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-081_322_9264-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27813229264)
 
-**Kimberley, South Africa · Remote-friendly · Opportunity-ready**
 
 </div>
 
@@ -234,8 +233,3 @@ I’m immediately available for useful work with junior cybersecurity, data, sof
 
 <div align="center">
 
-### Practical builder. Security-minded learner.
-
-*Useful systems, responsible AI and interfaces people can actually understand.*
-
-</div>
