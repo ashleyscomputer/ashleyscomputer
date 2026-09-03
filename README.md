@@ -11,8 +11,7 @@ I build useful applications, analyse messy data and explore cybersecurity throug
 
 [![Open to work](https://img.shields.io/badge/Open_to_Work-00A86B?style=for-the-badge)](#lets-connect)
 [![Location](https://img.shields.io/badge/Kimberley_%26_Remote-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](#lets-connect)
-[![Profile views](https://komarev.com/ghpvc/?username=ashleyscomputer&style=for-the-badge&color=0071E3)](https://github.com/ashleyscomputer)
-[![Followers](https://img.shields.io/github/followers/ashleyscomputer?style=for-the-badge&color=111111&logo=github)](https://github.com/ashleyscomputer?tab=followers)
+
 
 </div>
 
@@ -27,7 +26,7 @@ I’m a final-year ICT student at **Sol Plaatje University** with a strong inter
 - 💻 Creating full-stack, mobile and cloud-connected applications
 - 📍 Based in Kimberley and available for remote opportunities
 - 🚀 Open to junior cybersecurity, data, software development and IT support roles
-- ✨ Philosophy: **polished over perfect**
+
 
 ## Technical stack
 
