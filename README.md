@@ -80,16 +80,22 @@ An interpretable credit-risk workflow using **Weight of Evidence, Information Va
 - Python, Pandas, Scikit-learn, Streamlit and Plotly
 - Awarded an **Honourable Mention**
 
-### 👟 KickStreet — Premium Sneaker Marketplace
+### 👟 [KickStreet — Premium Sneaker Marketplace](https://kickstreet.store/)
 
-A premium sneaker resale concept with predictive search, advanced filters, cart flow, payment-gateway planning and admin sales visibility.
+<a href="https://kickstreet.store/"><img src="https://raw.githubusercontent.com/ashleyscomputer/MyPortfolio/main/src/assets/sneaker-website.png" alt="KickStreet premium sneaker marketplace live website" width="100%" /></a>
+
+A live South African sneaker storefront with predictive search, advanced filters, cart flow, payment-gateway planning and admin sales visibility.
 
 - React, Vite, Tailwind CSS and shadcn/ui
 - Product discovery designed around drops, sizes and buyer behaviour
-- Security-minded checkout and operational planning
-- Private portfolio build
+- Direct WhatsApp ordering, size selection and clear manual-payment flow
+- Live catalogue with sneakers, accessories and screenshot-based sourcing
+
+[![Visit live KickStreet store](https://img.shields.io/badge/Visit_live_store-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kickstreet.store/)
 
 ### 🎓 NFC Student Card System — Mobile identity
+
+<img src="https://raw.githubusercontent.com/ashleyscomputer/MyPortfolio/main/src/assets/nfc-student-card.webp" alt="NFC Student Card System mobile interface" width="100%" />
 
 A digital student identity system with NFC scanning, Firebase authentication, cloud storage and real-time admin analytics.
 
@@ -99,6 +105,8 @@ A digital student identity system with NFC scanning, Firebase authentication, cl
 
 ### 🏫 Academic Student Portal — Full-stack web
 
+<img src="https://raw.githubusercontent.com/ashleyscomputer/MyPortfolio/main/src/assets/student-portal.jpg" alt="Django Academic Student Portal dashboard" width="100%" />
+
 A Django academic portal for authentication, transcript access and SQL-driven reporting through a focused dashboard.
 
 - Django, MySQL, HTMX, SQL views and Python
@@ -107,6 +115,8 @@ A Django academic portal for authentication, transcript access and SQL-driven re
 
 ### 📈 [Data Analysis & Visualisation](https://github.com/ashleyscomputer/Dirisa2025) — Data / AI
 
+<a href="https://github.com/ashleyscomputer/Dirisa2025"><img src="https://raw.githubusercontent.com/ashleyscomputer/MyPortfolio/main/src/assets/data-analytics.png" alt="Data analysis and visualisation dashboard" width="100%" /></a>
+
 Interactive analysis and dashboards for turning raw indicators into understandable trends and reporting.
 
 - Python, Pandas, Jupyter, Plotly and Dash
@@ -114,6 +124,8 @@ Interactive analysis and dashboards for turning raw indicators into understandab
 - Notebook analysis paired with dashboard exploration
 
 ### 🚨 GBV Panic Button App — Human safety
+
+<img src="https://raw.githubusercontent.com/ashleyscomputer/MyPortfolio/main/src/assets/gbv-panic-button.jpg" alt="GBV Panic Button safety application" width="100%" />
 
 A privacy-conscious safety application with a discreet safe-word trigger, geo-mapping, offline-ready alerts and community hazard reporting.
 
@@ -130,6 +142,8 @@ An Apple-inspired South African car-rental experience with a 40-vehicle catalogu
 [![Live site](https://img.shields.io/badge/View_live_site-0071E3?style=for-the-badge)](https://drift-car-rental-2026.ashleyvr90.chatgpt.site)
 
 ## Achievements & hackathons
+
+<img src="https://raw.githubusercontent.com/ashleyscomputer/MyPortfolio/main/src/assets/hackathon-win.jpg" alt="Security Summit 2025 Hackathon winning team" width="100%" />
 
 | Result | Achievement |
 |---|---|
