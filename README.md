@@ -58,6 +58,25 @@ I’m a final-year ICT student at **Sol Plaatje University** with a strong inter
 
 ## Featured projects
 
+### 🧋 [BobaOnTheBlock — Full-Stack Commerce Platform](https://bobaontheblock.vercel.app)
+
+<a href="https://bobaontheblock.vercel.app"><img src="https://bobaontheblock.vercel.app/og.png" alt="BobaOnTheBlock anime-inspired boba ordering platform" width="100%" /></a>
+
+A production-minded ordering platform I built for a real Kimberley boba business. The project goes beyond a storefront: catalogue, cart, authentication, checkout, delivery validation, server-side pricing, payment architecture and admin operations all live in one connected system.
+
+- **Next.js 16 + React 19 + TypeScript** with a responsive anime-inspired customer experience
+- **Firebase Auth + Firestore + Firebase Admin** with secure server sessions and protected operational data
+- **Paystack architecture** with server-side initialization, verification and idempotent webhook handling
+- **Kimberley-only delivery logic** using server-side geocoding, route distance and fail-closed address verification
+- **Security-first commerce**: server-authoritative totals, deny-by-default Firestore rules, privileged admin boundaries and no card data stored by the app
+- **Vercel production deployment** with environment-separated secrets and automated Git deployment
+
+[![Visit live BobaOnTheBlock](https://img.shields.io/badge/Visit_live_store-ff8fb3?style=for-the-badge&logo=vercel&logoColor=white)](https://bobaontheblock.vercel.app)
+[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-Auth_%2B_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111)](https://firebase.google.com/)
+
+> The production repository is kept private because it contains the operational structure for a live business. The public site above is the working showcase.
+
 ### 🚗 [Drift Car Rental](https://github.com/ashleyscomputer/drift-car-rental)
 
 <a href="https://drift-car-rental-2026.ashleyvr90.chatgpt.site/"><img src="https://raw.githubusercontent.com/ashleyscomputer/drift-car-rental/main/public/og.png" alt="Drift Car Rental premium vehicle catalogue" width="100%" /></a>
