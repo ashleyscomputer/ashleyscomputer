@@ -81,7 +81,7 @@ A production-minded ordering platform I built for a real Kimberley boba business
 
 <a href="https://drift-car-rental-2026.ashleyvr90.chatgpt.site/"><img src="https://raw.githubusercontent.com/ashleyscomputer/drift-car-rental/main/public/og.png" alt="Drift Car Rental premium vehicle catalogue" width="100%" /></a>
 
-An Apple-inspired South African car-rental experience with a 40-vehicle catalogue, local demo authentication, animated checkout, customer booking flow, admin dashboard, market-aligned pricing and an on-device Hugging Face AI guide.
+An Apple-inspired South African car-rental experience with a 70-vehicle catalogue, a scroll-driven 3D concept configurator, local demo authentication, animated checkout, admin dashboard, market-aligned pricing and an on-device Hugging Face AI guide.
 
 [![View live Drift website](https://img.shields.io/badge/View_live_website-0071E3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drift-car-rental-2026.ashleyvr90.chatgpt.site/)
 [![Open repository](https://img.shields.io/badge/Open_repository-111111?style=for-the-badge&logo=github)](https://github.com/ashleyscomputer/drift-car-rental)
