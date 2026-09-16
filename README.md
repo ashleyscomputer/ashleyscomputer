@@ -9,8 +9,6 @@ Aspiring penetration tester and practical, security-minded builder from Kimberle
 
 I build useful applications, analyse messy data and explore cybersecurity through hands-on projects, hackathons and technical work.
 
-[![Open to work](https://img.shields.io/badge/Open_to_Work-00A86B?style=for-the-badge)](#lets-connect)
-[![Location](https://img.shields.io/badge/Kimberley_%26_Remote-111827?style=for-the-badge&logo=googlemaps&logoColor=white)](#lets-connect)
 
 
 </div>
